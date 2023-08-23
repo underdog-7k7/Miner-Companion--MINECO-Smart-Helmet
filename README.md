@@ -33,8 +33,12 @@ This sensor is used in various applications such as measuring humidity and tempe
 
 TinkerCAD model simulation: https://www.tinkercad.com/things/4fPJXSMQtZN
 
-3D-Model prototype: ![image](https://github.com/underdog-7k7/Smart-Helmet-for-Miners-with-Warning-System/assets/110458390/d1f90fe8-9e15-42fb-8a3d-b8472dd09b1d)
+Clicked image:
+![image](https://github.com/underdog-7k7/Miner-Companion--MINECO-Smart-Helmet/assets/110458390/bb63e738-22a4-442e-a5b3-5f45bafff512)
 
-Images taken of the assembled helmet:
-![image](https://github.com/underdog-7k7/Smart-Helmet-for-Miners-with-Warning-System/assets/110458390/a356be60-2435-426b-99a0-34899ad7a556)
+3D Prototype:
+![image](https://github.com/underdog-7k7/Miner-Companion--MINECO-Smart-Helmet/assets/110458390/de656ddd-2eac-485d-a3b5-2917157952d5)
+
+
+
 
