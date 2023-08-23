@@ -1,6 +1,14 @@
 # Smart-Helmet-for-Miners-with-Warning-System
 
-ANIMESH PANDEY 20BCT0114
+ANIMESH PANDEY 
+
+TinkerCAD model simulation: https://www.tinkercad.com/things/4fPJXSMQtZN
+
+3D-Model prototype: ![image](https://github.com/underdog-7k7/Smart-Helmet-for-Miners-with-Warning-System/assets/110458390/d1f90fe8-9e15-42fb-8a3d-b8472dd09b1d)
+
+Images taken of the assembled helmet:
+![image](https://github.com/underdog-7k7/Smart-Helmet-for-Miners-with-Warning-System/assets/110458390/a356be60-2435-426b-99a0-34899ad7a556)
+
 
 This project aims at enhancing the existing wearable safety helmets for the mining industry with the concept of Internet of things and Miners in the mining area are prone to dangers that can't be detected by normal human senses (such as Carbon monoxide pocket leaks). A Smart Mining Helmet will be able to alert the miner whenever the area around him becomes unsafe with poisonous gases or unusually high temperature. The primary danger in the mines is mainly due to air quality around the miner, many toxic gases in the mine and some nontoxic gases present in the vicinity of the miner Which can greatly harm the miner health over the long term of his life. Our project focuses on a mine supervising system monitor using IOT with sensors attached on top of the helmet to give real-time surveillance with early-warning system on various harmful gases using a small buzzer and LED. In addition to that, once a area becomes unsafe the helmet acts as a broadcasting device which gives necessary warning to other helmets as well about the potential danger which are interconnected to each other using a real time Ad-hoc network of helmets.
 
