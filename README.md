@@ -2,13 +2,6 @@
 
 ANIMESH PANDEY 
 
-TinkerCAD model simulation: https://www.tinkercad.com/things/4fPJXSMQtZN
-
-3D-Model prototype: ![image](https://github.com/underdog-7k7/Smart-Helmet-for-Miners-with-Warning-System/assets/110458390/d1f90fe8-9e15-42fb-8a3d-b8472dd09b1d)
-
-Images taken of the assembled helmet:
-![image](https://github.com/underdog-7k7/Smart-Helmet-for-Miners-with-Warning-System/assets/110458390/a356be60-2435-426b-99a0-34899ad7a556)
-
 Working team: Animesh Pandey,Anirudh Vadera , Om Dhapodkar
 
 
@@ -37,3 +30,10 @@ This sensor is used in various applications such as measuring humidity and tempe
 
 ##FLOW DISCUSSED IN PROJECT DOC
 ![image](https://user-images.githubusercontent.com/110458390/202319510-fe8f112f-788e-49c3-9353-4107f857ab27.png)
+
+TinkerCAD model simulation: https://www.tinkercad.com/things/4fPJXSMQtZN
+
+3D-Model prototype: ![image](https://github.com/underdog-7k7/Smart-Helmet-for-Miners-with-Warning-System/assets/110458390/d1f90fe8-9e15-42fb-8a3d-b8472dd09b1d)
+
+Images taken of the assembled helmet:
+![image](https://github.com/underdog-7k7/Smart-Helmet-for-Miners-with-Warning-System/assets/110458390/a356be60-2435-426b-99a0-34899ad7a556)
