@@ -1,6 +1,6 @@
 # Smart-Helmet-for-Miners-with-Warning-System
 
-ANIMESH PANDEY 
+ANIMESH PANDEY 20BCT0114
 
 This project aims at enhancing the existing wearable safety helmets for the mining industry with the concept of Internet of things and Miners in the mining area are prone to dangers that can't be detected by normal human senses (such as Carbon monoxide pocket leaks). A Smart Mining Helmet will be able to alert the miner whenever the area around him becomes unsafe with poisonous gases or unusually high temperature. The primary danger in the mines is mainly due to air quality around the miner, many toxic gases in the mine and some nontoxic gases present in the vicinity of the miner Which can greatly harm the miner health over the long term of his life. Our project focuses on a mine supervising system monitor using IOT with sensors attached on top of the helmet to give real-time surveillance with early-warning system on various harmful gases using a small buzzer and LED. In addition to that, once a area becomes unsafe the helmet acts as a broadcasting device which gives necessary warning to other helmets as well about the potential danger which are interconnected to each other using a real time Ad-hoc network of helmets.
 
@@ -21,6 +21,7 @@ This sensor is used in various applications such as measuring humidity and tempe
  
 5)LED: The major uses of LED (Light Emitting Diodes) are to illuminate objects and even places. Its application is everywhere due to its compact size, low consumption of energy, extended lifetime, and flexibility in terms of use in various applications. Applications and uses of LEDs can be seen in: TV Backlighting.
  
+
 6)Breadboard: A breadboard (sometimes called a plugblock) is used for building temporary circuits. It is useful to designers because it allows components to be removed and replaced easily. It is useful to the person who wants to build a circuit to demonstrate its action, then to reuse the components in another circuit
 
 
