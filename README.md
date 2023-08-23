@@ -37,3 +37,4 @@ TinkerCAD model simulation: https://www.tinkercad.com/things/4fPJXSMQtZN
 
 Images taken of the assembled helmet:
 ![image](https://github.com/underdog-7k7/Smart-Helmet-for-Miners-with-Warning-System/assets/110458390/a356be60-2435-426b-99a0-34899ad7a556)
+
