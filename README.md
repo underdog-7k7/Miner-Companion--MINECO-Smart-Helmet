@@ -39,6 +39,8 @@ Clicked image:
 3D Prototype:
 ![image](https://github.com/underdog-7k7/Miner-Companion--MINECO-Smart-Helmet/assets/110458390/de656ddd-2eac-485d-a3b5-2917157952d5)
 
+Guide on how to run/test the scripts:
+
 
 
 
